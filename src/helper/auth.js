@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken')
-const { tokenExpired, tokenError } = require('../helpers/res')
+const { tokenExpired, tokenError } = require('../helper/res')
 const { PRIVATEKEY } = require('../helpers/env')
 
 module.exports = {

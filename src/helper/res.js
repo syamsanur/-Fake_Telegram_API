@@ -35,13 +35,14 @@ const response = {
         }
         res.json(result)
     },
-    loginSuccess: (res, id, token, refreshToken, message) => {
+    loginSuccess: (res, id, username, token, refreshToken, message) => {
         const result = {
             code: 200,
             status: true,
             message: message,
             data: {
                 id,
+                username,
                 token,
                 refreshToken
             }
