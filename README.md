@@ -8,7 +8,7 @@ Fake Telegram is application where the user can chat with each other, only regis
 ## Development
 This app was build using Vue.js, Vuex, Bootstarp-Vue, Socket.io the app consume API from the Fake Telegram API
 
-![image](https://github.com/syamsanur/POS_APP_AWS/blob/master/src/assets/posapp2.png)
+![image](https://github.com/syamsanur/Fake_Telegram/blob/main/src/assets/fake_telegram.png)
 
 ## Project setup
 ```
